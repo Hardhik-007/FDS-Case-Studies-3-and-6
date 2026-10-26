@@ -31,5 +31,3 @@ Or run `python bank_marketing_analysis.py`.
 ## Current result summary
 Decision Tree has the highest F1-score (0.358) and recall (0.268) at the default threshold. Random Forest has the highest ROC-AUC (0.803). Results depend on this split and configuration; threshold tuning and cross-validation are recommended.
 
-## Academic integrity
-Review the notebook, run it yourself, and ensure you understand and can explain the choices and outputs. This is a reproducible starting point; your course requires individual work.
