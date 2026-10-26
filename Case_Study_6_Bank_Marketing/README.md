@@ -1,11 +1,5 @@
 # Case Study 6 — Bank Marketing Prediction
 
-**Student:** P Hardhik Reddy  
-**Roll No.:** 160124733192  
-**Section:** CSE-3  
-**Subject:** Fundamentals of Data Science (22CSC59)  
-**Faculty:** S Durga Devi
-
 ## Objective
 Compare Logistic Regression, Decision Tree, KNN, and Random Forest for predicting whether a customer subscribes to a term deposit.
 
